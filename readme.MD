@@ -140,8 +140,6 @@ Model Mapping:
 | gemini-1.5-flash-8b | 15 RPM (requests per minute)<br/>1 million TPM (tokens per minute)<br/>1,500 RPD (requests per day) | High volume and lower intelligence tasks                     |
 | text-embedding-004  | 1,500 RPM (requests per minute)                              | Measuring the relatedness of text strings                    |
 
----
-
 ## Media
 
 [Vision] and [audio] input supported as per OpenAI [specs].
